@@ -2,10 +2,6 @@
 
 Este projeto apresenta um dashboard interativo desenvolvido para analisar as estatísticas detalhadas do atacante Harry Kane em diferentes partidas. A aplicação permite visualizar métricas de eficiência, passes e gols de forma dinâmica.
 
-![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
-![Badge](https://img.shields.io/badge/Python-3.x-green)
-![Badge](https://img.shields.io/badge/Framework-Streamlit-red)
-
 ---
 
 ## 🎯 Objetivo
