@@ -18,8 +18,5 @@ Facilitar a análise de dados esportivos através de visualizações gráficas, 
 * **Consistência de Passes:** Monitoramento do volume e precisão de passes.
 * **Correlação Minutos x Gols:** Gráfico de dispersão para análise de produtividade.
 
-## ⚙️ Como rodar o projeto
-1. Certifique-se de ter o Python instalado.
-2. Instale as dependências:
    ```bash
    pip install streamlit pandas altair
